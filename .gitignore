@@ -1,0 +1,4 @@
+.eunit
+otp.plt
+astar.plt
+dialyzer.log
