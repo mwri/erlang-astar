@@ -1,3 +1,6 @@
 language: erlang
+install: true
 otp_release:
-  - 17
+  - 19.1
+  - 17.5
+  - R15B03
