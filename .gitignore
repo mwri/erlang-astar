@@ -1,4 +1,8 @@
-.eunit
-otp.plt
-astar.plt
-dialyzer.log
+/.eunit
+/otp.plt
+/astar.plt
+/dialyzer.log
+/doc/*.html
+/doc/edoc-info
+/doc/erlang.png
+/doc/stylesheet.css
